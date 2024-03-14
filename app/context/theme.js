@@ -1,4 +1,4 @@
-const themes = [
+export const themes = [
     {
       name: "default",
       colorBg: "#252525",
